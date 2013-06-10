@@ -9,5 +9,5 @@ package br.edu.fasa.tarefas.dao;
  * @author thiago
  */
 public class ConectaBanco {
-    private int a;
+  
 }
